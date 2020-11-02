@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wearetechwomen.com/wp-content/uploads/2019/04/Hacker-Rank.png">
+  <img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg">
 </p>
 
 <h1> HackerRank problems solved in python </h1> 
